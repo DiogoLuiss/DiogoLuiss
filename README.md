@@ -4,7 +4,8 @@
 <h3> About me </h3>
 
 
-- 🌎 &nbsp; i'm from brazil and i'm 18 years old
+- 🌎 &nbsp; I'm from brazil
+- 🌞 &nbsp; I'm 18 years old
 - 🎓 &nbsp; I am currently studying at the Dev Club and am developing my skills as a programmer. <a href="https://comunidade.rodolfomori.com/">📚</a>
 - 🌱 &nbsp; Learning more about <strong> Html, Css and expanding</strong>.
 
