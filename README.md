@@ -19,11 +19,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoLuiss&theme=highcontrast&hide_langs_below=1)](https://github.com/DiogoLuiss/README.MD/github-readme-stats)
 
 <a href="https://www.youtube.com/watch?v=qFLhGq0060w" target="_blank"  ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
  🚀 My Skills
 
+ 
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
- 
 
 <h3>Connect with me </h3>
 
