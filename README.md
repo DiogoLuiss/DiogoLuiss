@@ -7,7 +7,7 @@
 - 🌎 &nbsp; I'm from brazil
 - 🌞 &nbsp; I'm 18 years old
 - 🎓 &nbsp; I am currently studying at the Dev Club and am developing my skills as a programmer. <a href="https://comunidade.rodolfomori.com/">📚</a>
-- 🌱 &nbsp; Learning more about <strong> Html, Css and expanding</strong>.
+- 🌱 &nbsp; Learning more about <strong> Html, Css, JavaScript and expanding</strong>.
 
 <a href="https://www.youtube.com/watch?v=qFLhGq0060w" target="_blank"  ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p> 👀 <strong> My git stats </strong </p>
