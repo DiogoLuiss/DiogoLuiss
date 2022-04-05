@@ -7,7 +7,7 @@
 - 🌎 &nbsp; I'm from brazil
 - 🌞 &nbsp; I'm 18 years old
 - 🎓 &nbsp; I am currently studying at the Dev Club and am developing my skills as a programmer. <a href="https://comunidade.rodolfomori.com/">📚</a>
-- 🌱 &nbsp; Learning more about <strong> Html, Css, JavaScript and expanding</strong>.
+- 🌱 &nbsp; Learning more about <strong> HTML | CSS | JavasSript | React.js | Node.js </strong>.
 
 <a href="https://www.youtube.com/watch?v=qFLhGq0060w" target="_blank"  ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p> 👀 <strong> My git stats </strong </p>
@@ -27,8 +27,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/></code>
-	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white</code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/></code>	
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="react"/></code>
+	
  
 <h3>Connect with me </h3>
 
