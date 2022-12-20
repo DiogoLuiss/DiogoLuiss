@@ -14,9 +14,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" >
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=DiogoLuiss&theme=highcontrast)](https://github.com/DiogoLuiss/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=DiogoLuiss&theme)](https://github.com/DiogoLuiss/github-readme-stats)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoLuiss&theme=highcontrast)](https://github.com/DiogoLuiss/README.MD/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoLuiss&theme)](https://github.com/DiogoLuiss/README.MD/github-readme-stats)
 
 
 <a href="https://www.youtube.com/watch?v=qFLhGq0060w" target="_blank"  ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
