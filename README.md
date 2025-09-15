@@ -1,60 +1,46 @@
-<h1> hello, i'm Diogo Welcome!! </h1> 
+# 👋 Hello, I'm Diogo! Welcome to my GitHub!  
 
+## 🚀 About me  
 
-<h3> About me </h3>
+- 🌎 I'm from Brazil  
+- 🌞 I'm 22 years old  
+- 🎓 Currently working as a Full Stack Mid-Level Developer 
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300" align="right" />
 
-- 🌎 &nbsp; I'm from brazil
-- 🌞 &nbsp; I'm 18 years old
-- 🎓 &nbsp; I am currently studying at the Dev Club and am developing my skills as a programmer. <a href="https://comunidade.rodolfomori.com/">📚</a>
-- 🌱 &nbsp; Learning more about <strong> HTML | CSS | JavasSript | React.js | Node.js </strong>.
+## 📊 GitHub Stats  
 
-<a href="https://www.youtube.com/watch?v=qFLhGq0060w" target="_blank"  ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p> 👀 <strong> My git stats </strong </p>
+![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoLuiss&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoLuiss&layout=compact&theme=tokyonight)  
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" >
+---
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=DiogoLuiss&theme)](https://github.com/DiogoLuiss/github-readme-stats)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoLuiss&theme)](https://github.com/DiogoLuiss/README.MD/github-readme-stats)
+## 🛠️ My Skills  
 
+**Backend**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=nuget&logoColor=white)  
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white)  
 
-<a href="https://www.youtube.com/watch?v=qFLhGq0060w" target="_blank"  ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
- 
- 🚀 My Skills
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 
- 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=typescript" alt="typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=next" alt="next.js"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=styledcomponents" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=docker" alt="docker"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=postgres" alt="postgres"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=cs" alt="cs"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=dotnet" alt="dotnet"/></code>
+**Node.js**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)  
 
+---
 
- 
-<h3>Connect with me </h3>
+## 📬 Connect with me  
 
-<p align="left">
-  <a href="mailto:diogoluis24@outlook.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<a href="https://web.whatsapp.com/send?phone=+5511984875590"  target=”_blank”>
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  
- 
- <h3>Social</h3>
- 
- <a href="https://www.linkedin.com/in/diogo-luis-05256522a/" target="_blank" alt="WhatsApp" >
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- 
-  <a href="https://www.instagram.com/diogo_luiszz/"  target="_blank" alt="Instagram" >
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogoluis24@outlook.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511984875590)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-luis-05256522a/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogo_luiszz/)  
